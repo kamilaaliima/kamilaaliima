@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello, eu sou Kamila, ou Mila, seja bem vinde! ❤🧡💛💚💙💜
+
+
+👩🏽‍💻 Desenvolvedora Back-end, formada através do Bootcamp @Reprograma;
+
+🌱 Estudando Java ☕, MySql 🐬, Angular 🅰️; 
+
+😄 Pronouns: ela/dela/she/her
+
+
+
+
+
 
 <!--
 **kamilaaliima/kamilaaliima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
