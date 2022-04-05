@@ -1,4 +1,4 @@
-### Oie, eu sou Kamila, ou Kami, seja bem vinde! ❤🧡💛💚💙💜
+### Oie, sou Kamila, ou Kami, seja bem vinde! ❤🧡💛💚💙💜
 
 
 👩🏽‍💻 Desenvolvedora Back-end, formada através do Bootcamp @Reprograma;
